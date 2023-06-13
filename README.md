@@ -1,7 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+Howdy, visitor!
+</h1>
 
-<!--
-**AlejoReyna/alejoreyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div size"text-align: center;">
+Welcome to my page :) 
+</div> 
+  
+I'm Alexis. A software engineering student. 
 
 Here are some ideas to get you started:
 
@@ -13,4 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
