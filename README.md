@@ -4,7 +4,7 @@ Howdy, visitor!
 
   
 <h4 align="center">  My name is Alexis Alberto. A software engineering student, currently ending my fourth semester.  </h4>
-<h5 align="center"> <em> I'm passionate to develop Front-End code, and I'm to collaborate to any interesting project :) </em> </h5> 
+<h5 align="center"> <em> I'm passionate to develop Front-End code, and I'm open to collaborate to any interesting project :) </em> </h5> 
 
 
 <h6 align="center"> Languages: </h6>
