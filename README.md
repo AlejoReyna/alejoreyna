@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hello, I'm Alexis.
+
+I'm a proficient JavaScript developer, able to work with the React framework.
+
 
 <!--
 **AlejoReyna/alejoreyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
