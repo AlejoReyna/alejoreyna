@@ -1,6 +1,6 @@
 # Hello, I'm Alexis.
 
-Watch me become a better dav each day.
+Watch me become a better dev each day.
 
 <!--
 **AlejoReyna/alejoreyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
