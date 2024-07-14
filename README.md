@@ -2,7 +2,7 @@
 
 Watch me become a better dev each day.
 
-[![My Skills](https://skillicons.dev/icons?i=js,css,nextjs,nodejs,react,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css,sql,nextjs,nodejs,react,bootstrap,tailwind)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoreyna&show_icons=true&theme=synthwave) 
 <!--
