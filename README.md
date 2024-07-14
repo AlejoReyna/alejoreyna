@@ -2,7 +2,7 @@
 
 Watch me become a better dev each day.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoreyna&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alejoreyna&show_icons=true&theme=synthwave) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejoreyna&hide_progress=true)
 <!--
 **AlejoReyna/alejoreyna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
