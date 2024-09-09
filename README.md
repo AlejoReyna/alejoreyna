@@ -6,8 +6,6 @@
 <p align="right"> <em> Have a look to my pokemon themed projects portfolio! </em> </p>
 <br>
 
-<img align="right" src="https://github.com/user-attachments/assets/43abc06e-7693-4d49-9ec5-468347dee5c2" width="50%" height="100%" alt="js-mug">
-
 <p align="left"> <a href="https://twitter.com/AlejoReyna_" target="blank"><img src="https://img.shields.io/twitter/follow/AlejoReyna_?logo=twitter&style=for-the-badge" alt="alejoreyna" /></a> </p>
 
 - 🇲🇽 I'm from the beautiful country of México.
