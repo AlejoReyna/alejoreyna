@@ -16,18 +16,36 @@ Full-stack engineer based in Monterrey, México. I build payment infrastructure,
 
 ## Stack
 
-```
-Frontend   Vue 3 · TypeScript · Pinia · Vitest · Tailwind · Next.js
-Backend    Go · Ruby on Rails · PostgreSQL/PostGIS · Redis
-Infra      AWS (EC2, RDS, S3, CloudFront, ElastiCache) · Docker
-Payments   STP (SPEI) · Stripe
-Web3       Solidity · Motoko (ICP) 
-AI         Claude API · Prompt engineering · AI-assisted code review
-```
+**Frontend**
+
+[![Frontend Skills](https://skillicons.dev/icons?i=vue,ts,tailwind,nextjs,vitest&theme=dark)](https://skillicons.dev)
+
+**Backend & Infra**
+
+[![Backend Skills](https://skillicons.dev/icons?i=go,ruby,rails,postgres,redis,aws,docker&theme=dark)](https://skillicons.dev)
+
+**Web3**
+
+[![Web3 Skills](https://skillicons.dev/icons?i=solidity&theme=dark)](https://skillicons.dev)
+![Motoko](https://img.shields.io/badge/Motoko-ICP-29ABE2?style=for-the-badge&logo=dfinity&logoColor=white)
+
+**AI**
+
+![Claude API](https://img.shields.io/badge/Claude_API-Anthropic-CC785C?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-LLMs-6B21A8?style=for-the-badge&logoColor=white)
 
 ---
 
 ## Projects
+
+### 💸 CashBridge
+P2P crypto-to-fiat exchange with automatic SPEI settlement. Built for Mexican informal workers who need to liquidate stablecoins without a crypto exchange account. The settlement layer hits SPEI directly — same rails Mexican banks use for wire transfers.
+
+Winning project from a hackathon targeting the Arbitrum Stylus financial inclusion track.
+
+**Concepts:** Stylus WASM contracts, SPEI integration, escrow mechanics, non-custodial P2P matching
+
+---
 
 ### 🗳️ Plebes DAO
 Frontend for a cross-chain governance protocol, built under a DFINITY grant. Wired ICP canisters to a React/TypeScript interface, debugged Motoko actor compilation, and handled the async canister call model that doesn't map cleanly to typical REST assumptions.
@@ -35,7 +53,6 @@ Frontend for a cross-chain governance protocol, built under a DFINITY grant. Wir
 **Concepts:** Internet Computer canister model, cross-chain proposals, Motoko actor pattern, async boundary handling
 
 ---
-
 
 ### 💍 Cindy's Wedding
 Wedding invitation web app (Next.js + TypeScript + Tailwind). Animated Canvas/SVG components built from scratch: swallow birds in flight, falling petals, botanical floral arrangements. No animation libraries.
@@ -60,7 +77,3 @@ I want to work on the systems banks actually run on, not just apps that sit on t
 - DQN / reinforcement learning (CartPole warm-up, eventual application to algorithmic trading research)
 - Digging into CNBV open banking specs and PCI DSS v4.0.1
 
-
-
-
-> UANL/FIME · Monterrey, NL · LIMA-LAMA · mSOL staker · Pokémon Showdown player
