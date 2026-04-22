@@ -9,10 +9,10 @@ Full-stack engineer from Monterrey, México passionate about fintech, blockchain
 **Freelance projects I've worked on include:**
 
 - **[Plebes DAO](https://plebes.xyz)** — Cross-chain governance protocol frontend, built under a DFINITY grant (React · TypeScript · DFINITY)
+- **[Birdlypay](https://birdlypay.vercel.app)** — Crypto payment-link dApp with additional DeFi functionality (TypeScript · Solidity · Thirdweb)
 - **[Andrea y Aldo](https://aldoyandrea.com)** — Custom animated wedding invitation (Next.js · Tailwind · Canvas)
 - **[Cindy's Wedding](https://cindyjorge.com)** — Botanical-themed animated wedding invite with custom SVG animations (HTML · CSS · JavaScript · SVG)
-- **[mpBOT](https://github.com/AlejoReyna/mpBOT)** — DeFi Telegram assistant for investment guidance and portfolio flows (Next.js · Telegraf · OpenAI)
-- **[Birdlypay](https://github.com/AlejoReyna/Birdlypay)** — Crypto payment-link dApp with additional DeFi functionality (TypeScript · Solidity)
+- **[mpBOT](https://github.com/AlejoReyna/mpBOT)** — DeFi Telegram assistant for investment guidance and portfolio flows (Next.js · Telegram · OpenAI)
 
 
 ---
