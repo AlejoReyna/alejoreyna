@@ -23,7 +23,3 @@ Full-stack engineer from Monterrey, México passionate about fintech, blockchain
 
 ---
 
-**Fun facts:**
-
-- I record guitar practice sessions and upload them to [SoundCloud](https://soundcloud.com/rszalexis)
-- LIMA-LAMA martial arts practitioner 🥋
