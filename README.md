@@ -1,4 +1,4 @@
-# Hey, I'm Alexis 👋
+# Hey, I'm Alexis
 
 Full-stack engineer from Monterrey, México passionate about fintech, blockchain, and building AI-augmented tools. Interested in banking technology and the infrastructure that moves real money.
 
