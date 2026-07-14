@@ -1,5 +1,4 @@
-```text
- ;;.                                andrew@grant ----------------------------------------------------
+;;.                                andrew@grant ----------------------------------------------------
               .                     . OS: ....................... Windows 10, Android 14, Linux
            . ;oi,.                  . Uptime: ....................... 22 years, 5 months, 29 days
       lllloll.; ::ioliiiii:         . Host: ........................... TTM Technologies, Inc.
@@ -24,4 +23,3 @@
 ;.    ii  ixxi;,       .;;          . Repos: .... 95 {Contributed: 133} | Stars: ............ 342
 ;;        :xkkooxl;:ixkk. ;.        . Commmits: ................... 2,116 | Followers: ......... 56
 ;ii       .lkKK000000KKx  :;.:;.    . Lines of Code on GitHub:. 446,276 ( 523,178++, 76,902-- )
-```
