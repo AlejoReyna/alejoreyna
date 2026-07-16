@@ -1,0 +1,50 @@
+{
+  "github_username": "AlejoReyna",
+  "display_name": "Alexis Alberto Reyna Sánchez",
+  "window_title": "AlejoReyna — zsh",
+  "command": "neofetch --profile AlejoReyna",
+  "timezone": "America/Monterrey",
+  "headline": "Full-stack Developer · Cloud & Web3 Builder",
+  "footer": "available for full-stack developer opportunities",
+  "portrait_file": "portrait.txt",
+  "sections": [
+    {
+      "title": "~/about",
+      "items": [
+        ["Role", "Full-stack Developer", "value"],
+        ["Based", "Monterrey, México", "value"],
+        ["Status", "Available", "accent"]
+      ]
+    },
+    {
+      "title": "~/stack",
+      "items": [
+        ["Lang", "TypeScript · C# · Ruby · Go", "value"],
+        ["Front", "Vue · Next.js", "value"],
+        ["Back", "ASP.NET Core · PostgreSQL", "value"],
+        ["Cloud", "AWS · Azure", "value"]
+      ]
+    },
+    {
+      "title": "~/projects",
+      "items": [
+        ["ArtisanalBrew", "Web3 coffee storefront · .NET 10 · Azure", "warning"],
+        ["NoNamedBot", "Autonomous BSC trading agent · 439+ tests", "warning"],
+        ["BirdlyPay", "Shareable on-chain payments · DeFi", "warning"]
+      ]
+    },
+    {
+      "title": "~/highlights",
+      "items": [
+        ["GitHub", "__github_stats__", "value"]
+      ]
+    },
+    {
+      "title": "~/reach",
+      "items": [
+        ["Web", "alexisreyna.dev", "accent"],
+        ["In", "linkedin.com/in/alexis-alberto-reyna-sánchez-6953102b4", "accent"]
+      ]
+    }
+  ]
+}
