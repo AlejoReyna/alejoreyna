@@ -23,7 +23,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("photo", type=Path, help="JPG, PNG, or WEBP portrait")
     parser.add_argument("--output", type=Path, default=Path(__file__).with_name("portrait.txt"))
     parser.add_argument("--columns", type=int, default=92, help="ASCII width")
-    parser.add_argument("--bust", type=float, default=0.68, help="fraction of subject height to retain")
+    parser.add_argument("--bust", type=float, default=1.0, help="fraction of subject height to retain")
     parser.add_argument("--detail", type=float, default=2.25, help="local-contrast gain")
     parser.add_argument("--shape", type=float, default=0.42, help="global light/dark weight")
     parser.add_argument("--threshold", type=int, default=105, help="alpha-mask cutoff")

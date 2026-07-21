@@ -43,7 +43,7 @@ THEMES = {
         "key": "#3fb950",
         "accent": "#58a6ff",
         "warning": "#d29922",
-        "portrait": "#d97757",
+        "portrait": "#ffffff",
     },
     "light": {
         "background": "#050505",
@@ -54,7 +54,7 @@ THEMES = {
         "key": "#3fb950",
         "accent": "#58a6ff",
         "warning": "#d29922",
-        "portrait": "#d97757",
+        "portrait": "#ffffff",
     },
 }
 
