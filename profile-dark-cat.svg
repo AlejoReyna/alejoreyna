@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="700" viewBox="0 0 1100 700" role="img" aria-labelledby="title description">
+<title id="title">Alexis Alberto Reyna Sánchez — terminal profile</title>
+<desc id="description">Animated terminal-style GitHub profile card for Alexis Alberto Reyna Sánchez.</desc>
+<style>
+        text { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+        .portrait { fill:#d97757; font-size:7px; white-space:pre; }
+        .key { fill:#3fb950; font-size:14px; font-weight:700; }
+        .value { fill:#e7e5e4; font-size:14px; }
+        .accent { fill:#58a6ff; font-size:14px; }
+        .warning { fill:#d29922; font-size:14px; }
+        .muted { fill:#a8a29e; font-size:12px; }
+        .header { fill:#58a6ff; font-size:17px; font-weight:700; }
+        .section { fill:#a8a29e; font-size:12px; letter-spacing:1px; }
+        .row { opacity:1; animation:appear .35s ease backwards; }
+        .portrait-row { opacity:1; animation:appear .28s ease backwards; }
+        .cursor { fill:#3fb950; animation:blink 1s steps(1,end) infinite; }
+        @keyframes appear { from { opacity:0; transform:translateY(3px); } to { opacity:1; transform:none; } }
+        @keyframes blink { 50% { opacity:0; } }
+        @media (prefers-reduced-motion: reduce) { .row,.portrait-row { opacity:1; animation:none; } .cursor { animation:none; } }
+        </style>
+<rect x="1" y="1" width="1098" height="698" rx="13" fill="#050505" stroke="#292524" stroke-width="2"/>
+<path d="M1 14A13 13 0 0 1 14 1h1072a13 13 0 0 1 13 13v28H1Z" fill="#0a0a0a"/>
+<line x1="1" y1="42" x2="1099" y2="42" stroke="#292524"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f56"/>
+<circle cx="44" cy="22" r="6" fill="#ffbd2e"/>
+<circle cx="64" cy="22" r="6" fill="#27c93f"/>
+<text x="550.0" y="27" class="muted" text-anchor="middle">AlejoReyna — zsh</text>
+<text x="32" y="70" class="row" style="animation-delay:.05s"><tspan class="key">➜</tspan><tspan class="accent" dx="8">~</tspan><tspan class="value" dx="9">neofetch --profile AlejoReyna</tspan></text>
+<text x="32" y="94.0" class="portrait portrait-row" xml:space="preserve" textLength="355.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.120s">                                                                  - .-.</text>
+<text x="32" y="102.3" class="portrait portrait-row" xml:space="preserve" textLength="355.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.132s">                                                                 . .::.</text>
+<text x="32" y="110.6" class="portrait portrait-row" xml:space="preserve" textLength="350.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.144s">                                                               = .:-=.</text>
+<text x="32" y="118.9" class="portrait portrait-row" xml:space="preserve" textLength="365.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.156s">                                                              = .--:... -</text>
+<text x="32" y="127.2" class="portrait portrait-row" xml:space="preserve" textLength="365.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.168s">                                                             = ::--==-- +</text>
+<text x="32" y="135.5" class="portrait portrait-row" xml:space="preserve" textLength="355.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.180s">                                                            + :-:--.---</text>
+<text x="32" y="143.8" class="portrait portrait-row" xml:space="preserve" textLength="365.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.192s">                                                        =-+: -=-:-:.::  =</text>
+<text x="32" y="152.1" class="portrait portrait-row" xml:space="preserve" textLength="365.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.204s">                                                    -:..:+= :+=---::--. :</text>
+<text x="32" y="160.4" class="portrait portrait-row" xml:space="preserve" textLength="350.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.216s">                                                 =. .:-=*+ :=-==-:..::</text>
+<text x="32" y="168.7" class="portrait portrait-row" xml:space="preserve" textLength="350.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.228s">                                             =-.  :==-++#-.+=--::::--:</text>
+<text x="32" y="177.0" class="portrait portrait-row" xml:space="preserve" textLength="350.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.240s">                                           :   .---=++++*-:+==-==-:-:.</text>
+<text x="32" y="185.3" class="portrait portrait-row" xml:space="preserve" textLength="365.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.252s">                                      =:   .:::-=--=+++*+.--=-.-:----:-.-</text>
+<text x="32" y="193.6" class="portrait portrait-row" xml:space="preserve" textLength="360.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.264s">                                    .  ...::==:----:-=-=- ++-=====:::::.</text>
+<text x="32" y="201.9" class="portrait portrait-row" xml:space="preserve" textLength="370.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.276s">        -::--=                   =. .----::=++=**=--:---=::++=-=+=-::..  -</text>
+<text x="32" y="210.2" class="portrait portrait-row" xml:space="preserve" textLength="360.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.288s">      : ..:::. .:-             =. .-=--=-===---=**=:=+=-:-.-=-=-:--::--.</text>
+<text x="32" y="218.5" class="portrait portrait-row" xml:space="preserve" textLength="375.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.300s">    =::=+==+==*+=-..-       :  .---*+-++=*=+*::::-+*--=---:+=--------+-.. -</text>
+<text x="32" y="226.8" class="portrait portrait-row" xml:space="preserve" textLength="365.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.312s">   = +==::===:..--:-: .:-:. .::-==-=-:: -+=+*=+:=-.--++-=+=+-=-+=.::::.:.</text>
+<text x="32" y="235.1" class="portrait portrait-row" xml:space="preserve" textLength="375.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.324s">    -=-=:-==+- :--++===: :==-=====-:::--+:-+=:=--=::::---+===+=++==+=.=- ..</text>
+<text x="32" y="243.4" class="portrait portrait-row" xml:space="preserve" textLength="385.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.336s">  - ====+=+===.-+==-=++#+-:-======-+=+=-=:-:==:=+==+:.::::--=*-====+===--::.=</text>
+<text x="32" y="251.7" class="portrait portrait-row" xml:space="preserve" textLength="395.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.348s">  -.=++++=+--- -=: .:-:=*@*::.-=========..:+--:.=-=*+:-:+=-:.==-.--.:=-=+-.   :</text>
+<text x="32" y="260.0" class="portrait portrait-row" xml:space="preserve" textLength="405.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.360s">  -.-===-==-=..---:::=-+++*++-..----:+=--:.++:==-::+==--=++:..==:--.:-::-:-:..  .</text>
+<text x="32" y="268.3" class="portrait portrait-row" xml:space="preserve" textLength="415.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.372s">  :.-====+--=-==+--.:--*=:-#%%*==-=--=-:-+:=+:-=+=:--=+++++:.:+=-+---- .===..:::  -</text>
+<text x="32" y="276.6" class="portrait portrait-row" xml:space="preserve" textLength="420.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.384s">  :.-=++++=-+=-=-:::===*:.+#**=--:.-+-==+=--+=-:=.-=--=*+++. -#-.*+=-:. -+=..--:   .</text>
+<text x="32" y="284.9" class="portrait portrait-row" xml:space="preserve" textLength="430.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.396s">  :.--++*+=-*-::--:+*-=+-:#*=++:**=*=+*#+-==:-+-=-:=:-::=*+-.-*: .**=-: .=+-.-.   .. +</text>
+<text x="32" y="293.2" class="portrait portrait-row" xml:space="preserve" textLength="435.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.408s">  - -=+======:-:--=+- :==+*#*::==**=-+==-::---=====+-:-: +*=- =-. .**=: .:=-  :+#%#-  -</text>
+<text x="32" y="301.5" class="portrait portrait-row" xml:space="preserve" textLength="440.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.420s">     =*+===***=-==+  :++##*#*+--=:++=++=--:==-:-=:++=+==::=**..+-...=+..:==.=#@@##%*.  +</text>
+<text x="32" y="309.8" class="portrait portrait-row" xml:space="preserve" textLength="440.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.432s">   *. -==--#%%=+*-::=+%%+*:...=*+==+---=.-===-=--:=+==-==::=%*.:=-:-==--=.-#=%#-+*@@=  .</text>
+<text x="32" y="318.1" class="portrait portrait-row" xml:space="preserve" textLength="440.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.444s">    %-:-=: =***++*-#@*---. ::=-:-=+++-:-:+++=-=++=:-=+==+-:-+#=-:--=====:.=-.@*=#%@@+  .</text>
+<text x="32" y="326.4" class="portrait portrait-row" xml:space="preserve" textLength="425.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.456s">    *==+=.=**+==--==-...::-=++-+*====:--==:===-=---=--:.--.-=**=::--++-=.:=.-@@@%%@@+</text>
+<text x="32" y="334.7" class="portrait portrait-row" xml:space="preserve" textLength="445.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.468s">   -:-==:.+#*+=++++-:::=-++-++-=+---+====---:-=---==--: :===-+#+::--=+-- :*:.*@@%@@@=   +</text>
+<text x="32" y="343.0" class="portrait portrait-row" xml:space="preserve" textLength="425.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.480s">   =::=+-  :::-+*=+*-+=+=*+--*=--+------==-::---=--==-::::=-:-**-:=-:===..#+ .+%@**%-</text>
+<text x="32" y="351.3" class="portrait portrait-row" xml:space="preserve" textLength="435.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.492s">    - :=+- :=-++=+++=====+-=--=++=--.:======-----:-++=--::==--++=:+-:=++: :%=.:=-=%+  .</text>
+<text x="32" y="359.6" class="portrait portrait-row" xml:space="preserve" textLength="450.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.504s">     *:..--+@%#+===:-=++-=-:-=--==*+-::------==---++=---=-=+=--==-==-==+-. .%#+++#= .::. +</text>
+<text x="32" y="367.9" class="portrait portrait-row" xml:space="preserve" textLength="450.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.516s">      *+=+@%+=::--::===::-=-:::.--+++-..-----=---=+=---:-========-=-=-=+=-:.---::  .---. :</text>
+<text x="32" y="376.2" class="portrait portrait-row" xml:space="preserve" textLength="450.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.528s">     *:=*##:.:::-+--==::------=:..:-+=----:------=+=---:---====-==---:=+=-+-::..  .---:  .</text>
+<text x="32" y="384.5" class="portrait portrait-row" xml:space="preserve" textLength="450.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.540s">    =.:==-::-==--:--=-==----::-:.  .=+=----:--:-:==---==:::-===+:==-. :+=-=+**++---=:..  :</text>
+<text x="32" y="392.8" class="portrait portrait-row" xml:space="preserve" textLength="450.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.552s">    : :----==-----=++=-:-:... .:===+=..:===-==::========--::--=*+-++=::==::::=#*=----:.  =</text>
+<text x="32" y="401.1" class="portrait portrait-row" xml:space="preserve" textLength="445.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.564s">    - --=-:==-=-:-==-::-:  .-*@@@%%@@%= ::-==+=----+==--=-=-.-===-=:-==+-:.  .--:::--:. .</text>
+<text x="32" y="409.4" class="portrait portrait-row" xml:space="preserve" textLength="430.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.576s">    - ====-==--::===:.--. -%@@*+**=++*@-. ::-+-:::-=-===#+=---==-:--::=+++=----..  :..</text>
+<text x="32" y="417.7" class="portrait portrait-row" xml:space="preserve" textLength="435.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.588s">    *..:-====:---===-::.:+@@%-.:=#%++.*@-. :===-:::.::-=*#+----=---=-:--=**=:.:--:    :</text>
+<text x="32" y="426.0" class="portrait portrait-row" xml:space="preserve" textLength="425.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.600s">     *-:--=-=-:==---==::=#@@@-:#%%@#---@%= .::-====----==+*=:-=----=-..:=*=-. ..=+=::</text>
+<text x="32" y="434.3" class="portrait portrait-row" xml:space="preserve" textLength="430.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.612s">     *=--=--==--=----=-==+@@%#%%%%@*-:-@%*- .::=-:==---=---+-*#+++=---:-*#*. .:=+-.  =</text>
+<text x="32" y="442.6" class="portrait portrait-row" xml:space="preserve" textLength="435.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.624s">      =------=---=-.=*==::%@%%##%@@+:.#%+#+=-++===+-....-=-+=#@*+#****+==#= ..::  .-. :</text>
+<text x="32" y="450.9" class="portrait portrait-row" xml:space="preserve" textLength="425.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.636s">      ++=-:==-=*-:=**--:. :%@@@@@#-::+*-+--=++=--===-..:-=:---==+#@%=-::=#: .::::=+-:</text>
+<text x="32" y="459.2" class="portrait portrait-row" xml:space="preserve" textLength="415.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.648s">       -::=+====-=+*=:-===.:*##*+++*#+  ==--=-=====+-:------:.  =#%%#%+-%#  .:::::.</text>
+<text x="32" y="467.5" class="portrait portrait-row" xml:space="preserve" textLength="430.0" lengthAdjust="spacingAndGlyphs" style="animation-delay:0.660s">        --+*--==+*+-:==+**+. .--++=-:  .-------::----::===--:..    .:=+#@=  .:::.::=-:</text>
+<text x="545" y="98" class="header row" style="animation-delay:0.32s">alexis alberto reyna sánchez</text>
+<line x1="545" y1="110" x2="1066" y2="110" stroke="#292524" class="row" style="animation-delay:0.37s"/>
+<text x="545" y="128" class="value row" style="animation-delay:0.42000000000000004s">Full-stack Developer · Cloud &amp; Web3 Builder</text>
+<text x="545" y="158" class="section row" style="animation-delay:0.50s">~/about</text>
+<text x="545" y="178" class="key row" style="animation-delay:0.56s">Role</text>
+<text x="675" y="178" class="value row" style="animation-delay:0.56s">Full-stack Developer</text>
+<text x="545" y="198" class="key row" style="animation-delay:0.62s">Based</text>
+<text x="675" y="198" class="value row" style="animation-delay:0.62s">Monterrey, México</text>
+<text x="545" y="218" class="key row" style="animation-delay:0.68s">Status</text>
+<text x="675" y="218" class="accent row" style="animation-delay:0.68s">Available</text>
+<text x="545" y="250" class="section row" style="animation-delay:0.74s">~/stack</text>
+<text x="545" y="270" class="key row" style="animation-delay:0.80s">Lang</text>
+<text x="675" y="270" class="value row" style="animation-delay:0.80s">TypeScript · C# · Ruby · Go</text>
+<text x="545" y="290" class="key row" style="animation-delay:0.86s">Front</text>
+<text x="675" y="290" class="value row" style="animation-delay:0.86s">Vue · Next.js</text>
+<text x="545" y="310" class="key row" style="animation-delay:0.92s">Back</text>
+<text x="675" y="310" class="value row" style="animation-delay:0.92s">ASP.NET Core · PostgreSQL</text>
+<text x="545" y="330" class="key row" style="animation-delay:0.98s">Cloud</text>
+<text x="675" y="330" class="value row" style="animation-delay:0.98s">AWS · Azure</text>
+<text x="545" y="362" class="section row" style="animation-delay:1.04s">~/projects</text>
+<text x="545" y="382" class="key row" style="animation-delay:1.10s">ArtisanalBrew</text>
+<text x="675" y="382" class="warning row" style="animation-delay:1.10s">Web3 coffee storefront · .NET 10 · Azure</text>
+<text x="545" y="402" class="key row" style="animation-delay:1.16s">NoNamedBot</text>
+<text x="675" y="402" class="warning row" style="animation-delay:1.16s">Autonomous BSC trading agent · 439+ tests</text>
+<text x="545" y="422" class="key row" style="animation-delay:1.22s">BirdlyPay</text>
+<text x="675" y="422" class="warning row" style="animation-delay:1.22s">Shareable on-chain payments · DeFi</text>
+<text x="545" y="454" class="section row" style="animation-delay:1.28s">~/highlights</text>
+<text x="545" y="474" class="key row" style="animation-delay:1.34s">GitHub</text>
+<text x="675" y="474" class="value row" style="animation-delay:1.34s">— repos · — stars · — followers</text>
+<text x="545" y="506" class="section row" style="animation-delay:1.40s">~/reach</text>
+<text x="545" y="526" class="key row" style="animation-delay:1.46s">Web</text>
+<text x="675" y="526" class="accent row" style="animation-delay:1.46s">alexisreyna.dev</text>
+<text x="545" y="546" class="key row" style="animation-delay:1.52s">In</text>
+<text x="675" y="546" class="accent row" style="animation-delay:1.52s">linkedin.com/in/alexis-alberto-reyna-sánchez-6</text>
+<text x="675" y="566" class="accent row" style="animation-delay:1.52s">953102b4</text>
+<text x="32" y="675" class="row" style="animation-delay:1.68s"><tspan class="key">➜</tspan><tspan class="accent" dx="8">~</tspan><tspan class="value" dx="9">available for full-stack developer opportunities</tspan><tspan class="cursor" dx="8">█</tspan></text>
+<text x="1072" y="675" class="muted" text-anchor="end">updated 21 Jul 2026 · 13:53 CST</text>
+</svg>

@@ -268,7 +268,7 @@ def main() -> None:
     username = str(CONFIG.get("github_username", ""))
     stats = github_stats(username)
     for theme_name, colors in THEMES.items():
-        target = ROOT / f"profile-{theme_name}.svg"
+        target = ROOT / f"profile-{theme_name}-cat.svg"
         target.write_text(render(theme_name, colors, stats), encoding="utf-8")
         print(f"wrote {target.name}")
 
